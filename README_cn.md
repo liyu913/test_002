@@ -1,3 +1,2 @@
-# 自制测试文档
-ROOT-CN-ONLY-TEST002-R04
-此仓库仅用于用户授权的案例来源测试。
+# 中文备用文档
+NOT-AUTO-SELECT-R04
