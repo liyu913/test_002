@@ -1,6 +1,16 @@
-# 中文单语言来源
+# 自制根目录测试文档
+ROOT-TEST002-R04-V1
 
-这是一份仅含中文说明的临时测试文档。
-仓库没有另一语言说明文件，不应提示语言缺失。
+中文 English 😀
 
-中文单语言检查通过标记
+![same](image.svg)
+![dot](./image.svg)
+![absolute](https://raw.githubusercontent.com/liyu913/test_002/main/image.svg)
+
+```html
+<b>code-only</b>
+```
+
+|名称|Value|
+|---|---|
+|测试|42|
