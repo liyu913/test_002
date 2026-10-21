@@ -1,5 +1,16 @@
-# 中文首次发布
+# 自制根目录测试文档
+ROOT-TEST002-R04-V1
 
-中文首次发布检查标记
+中文 English 😀
 
-当前组只保留一份中文说明，没有其他语言说明。
+![same](image.svg)
+![dot](./image.svg)
+![absolute](https://raw.githubusercontent.com/liyu913/test_002/main/image.svg)
+
+```html
+<b>code-only</b>
+```
+
+|名称|Value|
+|---|---|
+|测试|42|
