@@ -1,6 +1,6 @@
-# English-only source
+# 中文单语言来源
 
-This temporary document contains English text only.
-Only one README document should be published without a missing-language warning.
+这是一份仅含中文说明的临时测试文档。
+仓库没有另一语言说明文件，不应提示语言缺失。
 
-ENGLISH-ONLY-R05
+中文单语言检查通过标记
