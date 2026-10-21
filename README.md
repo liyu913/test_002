@@ -1,5 +1,5 @@
-# English first publication
+# 中文首次发布
 
-ENGLISH-FIRST-PUBLISH-R05
+中文首次发布检查标记
 
-This original document is the only README language available for this test.
+当前组只保留一份中文说明，没有其他语言说明。
